@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662875133853",
+    "firebase_url": "https://whatsme-e14bc.firebaseio.com",
+    "project_id": "whatsme-e14bc",
+    "storage_bucket": "whatsme-e14bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662875133853:android:9a0d0517dd6523a4828174",
+        "android_client_info": {
+          "package_name": "com.example.whatsme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662875133853-klv9eofk5n746nhej2olasrbe5set3m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsme",
+            "certificate_hash": "437f58cd8eab417198900fa19b76fef881be792a"
+          }
+        },
+        {
+          "client_id": "662875133853-rqbbf90r7iqg39ji3chet14098o7dkok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZ5SfEbDaVTp6WpWZYlb97nVS2DyNeRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662875133853-rqbbf90r7iqg39ji3chet14098o7dkok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
